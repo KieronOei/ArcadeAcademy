@@ -1,6 +1,6 @@
 # ArcadeAcademy
 
-We are a group of NUS students from StartIT who want to make lessons taught in school more engaging and effective through the use of games.
+Step beyond the classroom and into a virtual world which will challenge your educational journey!
 
 <h2> About us </h2>
 
